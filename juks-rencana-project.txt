@@ -1,3 +1,5 @@
 RENCANA PROJECT JUKSS
 -Web e-commerce
+  -menggunkana bahasa pemrograman html,css,javascript
 -web/aplikasi kalkulatoor
+  -menggunakan bahasa pemrograman html,css,javascript/python

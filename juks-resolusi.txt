@@ -1,0 +1,4 @@
+JUKSS RESOLUSI
+- membuat web portofolio
+- membuat kalkulator javascript/python
+- membuat web landing page   
